@@ -1,0 +1,7 @@
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\obj\Debug\CarWorkshop.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\obj\Debug\CarWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\bin\Debug\CarWorkshop.exe.config
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\bin\Debug\CarWorkshop.exe
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\bin\Debug\CarWorkshop.pdb
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\obj\Debug\CarWorkshop.exe
+C:\Users\אביב\source\repos\CarWorkshop\CarWorkshop\obj\Debug\CarWorkshop.pdb
